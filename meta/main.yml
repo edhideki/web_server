@@ -1,0 +1,19 @@
+---
+galaxy_info:
+  role_name: web_server
+  author: edhideki
+  description: Instalação e Configuração do servidor Apache
+  company: ehs
+  license: GPLv3
+  min_ansible_version: 2.9
+  platforms:
+    - name: Ubuntu
+      versions:
+        - focal
+    - name: EL
+      versions:
+        - 8
+  galaxy_tags:
+    - apache
+dependencies:
+#  - conf_base        
