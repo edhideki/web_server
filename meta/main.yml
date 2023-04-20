@@ -15,5 +15,5 @@ galaxy_info:
         - 8
   galaxy_tags:
     - apache
-dependencies:
+dependencies: []
 #  - conf_base        
